@@ -1,20 +1,11 @@
 <p align="center">
   <a href="https://github.com/Snusene"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7801D&center=true&width=485&lines=Hi%2C+I+go+by+Snues;Developer+by+day%2C+binge+watcher+by+night;Send+help+(or+pull+requests)"></a>
 </p>
-
----
-
 <p align="center">
 <sub>
-<strong>Some links:</strong> <br>
 <a href="https://discord.com/users/98862725609816064"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
-<a href="https://betterdiscord.app/developer/Snues"><img src="https://img.shields.io/badge/BetterDiscord-3E82E5?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAABmklEQVR4nJ2SsWoUURSGv3vPndmdddYdRWOUiEWUgHZibZ0liCBGjGjvI4jvYWElWNiIlQ%2BQTixMYRGixi1sl8UlYxyyd%2BfOsZjVzEZJ4e1O8f3nno%2FfpN1M%2BY%2Fn5kcDxjRmxQCqf2c3QINWJRqmNY9BbYT3U5KkXcc0Ag5BDbikR9RdBK0IU4%2F4EVeWF9j%2BtEvkHM65P7ADMFYoi5zT126zfOcZYbKPxB1Gg3c86QtZO3D%2FwUPKMmCtRVWxhxsVIxHSSvn65jG7rzZILt3k7dYeq%2F0%2Ba2u3%2BLmfY61tfFUV42Im42%2BUxXfSpeuki1fRgzHF8DMhBLKsV8uaybM1VyGtlL3BJjsv16l8gZVWfc%2FspqNe7W%2BjVemJexcJBzmjj68ZfniBaZ0iWVhBRMjzH7X5WZBJu5nWcsacvfGIy3efUxZjJE4YDd7zdNVwpmtZv7eB9x4RQVVrsE4KuHaP%2BOR5UCWUHpkMWbpwju2dL4hYnIvmN84XwNeTMaiNmfgpnWMLgGKsw0jU7BInOkJVHVu5mbsjvfwHA8Avlwixy2z2%2BqIAAAAASUVORK5CYII%3D&logoColor=white"></a>
 </sub>
 </p>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Snusene&layout=compact&theme=dracula&hide_border=true)
-
----
 
 Here are some parrots🦜
 <div>
